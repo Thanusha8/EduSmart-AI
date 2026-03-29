@@ -4,12 +4,17 @@ An AI-powered learning assistant that helps students learn from their own docume
 
  
 
-# 📸 Ask & Learn
+## 📸 Ask & Learn - Student
 <img width="1908" height="780" alt="image" src="https://github.com/user-attachments/assets/a60e78ab-7e11-4ca7-9962-7ec628b55ad3" />
 
-## 📸 Practice Quiz
+## 📸 Practice Quiz - Student
 <img width="1919" height="807" alt="image" src="https://github.com/user-attachments/assets/e9332678-6693-4ec5-bbfe-ddd1ad644d43" />
 
+## 📸 Tour Progress - Student
+<img width="1904" height="784" alt="image" src="https://github.com/user-attachments/assets/dd76734d-db35-4366-a35b-2e14e2a7d46a" />
+
+## 📸 Upload Study Materials - Teacher
+<img width="1910" height="783" alt="image" src="https://github.com/user-attachments/assets/00a1dd85-dec9-4269-b735-ba5ae33d64f8" />
 
 
 <!-- Add your screenshots here -->
