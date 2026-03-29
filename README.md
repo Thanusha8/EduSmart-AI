@@ -16,6 +16,18 @@ An AI-powered learning assistant that helps students learn from their own docume
 ## 📸 Upload Study Materials - Teacher
 <img width="1910" height="783" alt="image" src="https://github.com/user-attachments/assets/00a1dd85-dec9-4269-b735-ba5ae33d64f8" />
 
+## 📸 EduSmart AI
+<img width="906" height="704" alt="image" src="https://github.com/user-attachments/assets/b20548b8-f495-49a6-b80f-f4d3d1c49a76" />
+
+## 📸 Login page
+<img width="865" height="670" alt="image" src="https://github.com/user-attachments/assets/49692822-0338-48c5-b199-d8d85abb0ad3" />
+
+
+## 📸 Create account
+<img width="689" height="818" alt="image" src="https://github.com/user-attachments/assets/cc580f55-52b0-4e9d-8546-cf94a4f73838" />
+
+
+
 
 
 ## ✨ Features
