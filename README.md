@@ -2,12 +2,12 @@
 
 An AI-powered learning assistant that helps students learn from their own documents. Upload PDFs, ask questions, get instant answers, generate quizzes, and track progress.
 
-## 📸 Screenshots
+ 
 
-## Ask & Learn
+# 📸 Ask & Learn
 <img width="1908" height="780" alt="image" src="https://github.com/user-attachments/assets/a60e78ab-7e11-4ca7-9962-7ec628b55ad3" />
 
-## Practice Quiz
+## 📸 Practice Quiz
 <img width="1919" height="807" alt="image" src="https://github.com/user-attachments/assets/e9332678-6693-4ec5-bbfe-ddd1ad644d43" />
 
 
