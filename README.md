@@ -17,12 +17,6 @@ An AI-powered learning assistant that helps students learn from their own docume
 <img width="1910" height="783" alt="image" src="https://github.com/user-attachments/assets/00a1dd85-dec9-4269-b735-ba5ae33d64f8" />
 
 
-<!-- Add your screenshots here -->
-![Landing Page](images/landing-page.png)
-![Login Page](images/login.png)
-![Student Dashboard](images/student-dashboard.png)
-![Chat Interface](images/chat.png)
-![Quiz Generator](images/quiz.png)
 
 ## ✨ Features
 
