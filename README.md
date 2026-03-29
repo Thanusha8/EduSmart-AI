@@ -4,7 +4,13 @@ An AI-powered learning assistant that helps students learn from their own docume
 
 ## 📸 Screenshots
 
-<img width="1910" height="785" alt="image" src="https://github.com/user-attachments/assets/f0dced3d-0254-40e4-91ce-c0ef2cd70288" />
+## Ask & Learn
+<img width="1908" height="780" alt="image" src="https://github.com/user-attachments/assets/a60e78ab-7e11-4ca7-9962-7ec628b55ad3" />
+
+## Practice Quiz
+<img width="1919" height="807" alt="image" src="https://github.com/user-attachments/assets/e9332678-6693-4ec5-bbfe-ddd1ad644d43" />
+
+
 
 <!-- Add your screenshots here -->
 ![Landing Page](images/landing-page.png)
